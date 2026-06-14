@@ -1,0 +1,10 @@
+{
+  "name": "PDA Chat AI",
+  "description": "An AI platform for unlimited chat, deep research, voice chat, and creative tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
